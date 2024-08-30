@@ -17,7 +17,6 @@ At present:
 
     - there is no support for headless browsing
     - the max number of occupants is 2, sharing 1 room, apartment or 2 dormitory beds
-    - the dates must be within the next 61 days (at max.)
 
 ## Setup
 
