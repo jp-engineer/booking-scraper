@@ -1,0 +1,12 @@
+**/keys
+*/**keys
+tmp/**
+**/*.venv/**
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+**.db-journal
+*.db
+**.log
+*.lock
