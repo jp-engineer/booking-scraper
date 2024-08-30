@@ -24,7 +24,7 @@ At present:
 1. Clone the repository:
 
     ```shell
-    git clone https://github.com/your-username/booking-scraper.git
+    git clone https://github.com/jp-engineer/booking-scraper.git
     ```
 
 2. Create a virtual environment:
