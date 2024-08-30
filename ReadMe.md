@@ -97,4 +97,4 @@ Outcomes:
     
     - Partial Success: The project slightly exceeded the 100-line goal and incorporated additional libraries (such as the underlying Selenium framework) to handle edge cases and improve reliability.
 
-    - Failures: Never could get full headless support working
+    - Failures: Never could get full headless support working in the alloted time.
