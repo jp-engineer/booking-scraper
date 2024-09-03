@@ -73,7 +73,9 @@ def start_scraper(location, start_d, nights, guests, crawl_speed):
         page_results = len(property_cards)
         print(f"Scraped {page_results} results from 1st page.")
 
+        kill_browser()
         return properties
+    
 
     except Exception as e:
         print(f"An error occurred: {e}")
