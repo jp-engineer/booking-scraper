@@ -111,7 +111,7 @@ def main():
 
             print(f"Average price: £{average_price}")
             print(f"Cheapest property: {cheapest_property.title} - £{cheapest_property.price} - {cheapest_property.url}")
-            break  # If scraping is successful, exit the retry loop
+            break
         else:
             print("Scraping failed, retrying...")
             time.sleep(args.retry_delay)
@@ -120,3 +120,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    

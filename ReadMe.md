@@ -61,10 +61,10 @@ At present:
 
 ## Example-Usage
 
-To run the scraper, use the following command:
+To run provide any number of command line arguments:
 
 ```shell
-python scraper.py --location "London" --start_date "2024-09-15" --nights 2 --guests 1 --retries 3 --crawl_speed 1.0
+python scraper.py --location "London" --nights 2 --guests 1
 
 ```
 
@@ -98,3 +98,5 @@ Outcomes:
     - Partial Success: The project slightly exceeded the 100-line goal and incorporated additional libraries (such as the underlying Selenium framework) to handle edge cases and improve reliability.
 
     - Failures: Never could get full headless support working in the alloted time.
+
+None Issues
